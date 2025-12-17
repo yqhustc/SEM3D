@@ -1,0 +1,24 @@
+fault_num: 1
+forward_data:
+mod1
+inv_data: 
+event1
+src_number:
+8 22
+degree_range: 19
+110 10 290
+rec_number: 35
+result_time_length: 711
+interpolation_time:
+0 1 250
+initial_temperatrue: 0.1
+annealing_coefficient: 0.985
+termination_temperature: 1e-07
+move: 200
+intensity_range_factor: 1.6e6
+smooth_constraint_weight_a: 0.4
+smooth_constraint_weight_t: 0.4
+entropy_constraint_weight_a: 0.1
+entropy_constraint_weight_t: 0.0
+single_constraint_weight: 0.1
+sparse_constraint_weight: 0.1
