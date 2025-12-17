@@ -125,6 +125,6 @@ sparse_constraint_weight: 0.1
 
 ./SA -i sph1
 
-After running the SA program, the inversion result is output to the 'src_inv_f1.txt' file located in the 'inv_desult/sh1_result' folder.
+After running the SA program, the inversion result is output to the 'src_inv_f1.txt' file located in the 'example/inv_result/shp1_result' folder.
 
-You can use 'result_plot.m' to draw the inversion results.
+You can use 'example/result_plot.m' to draw the inversion results.
